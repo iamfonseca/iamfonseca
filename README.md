@@ -35,7 +35,7 @@ Sou o **Arthur Fonseca**, estudante de **Engenharia de Software** e Desenvolvedo
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="35" alt="Lua" />
-      <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" alt="MySQL" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" alt="SQLite" />
     </td>
   </tr>
