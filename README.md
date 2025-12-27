@@ -1,4 +1,4 @@
-# Olá, eu sou o Arthur Fonseca! 👋, estudante de Engenharia de Software e desenvolvedor Full Stack! 👋
+# Olá, eu sou o Arthur Fonseca, estudante de Engenharia de Software e desenvolvedor Full Stack! 👋
 
 ---
 
