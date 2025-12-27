@@ -1,23 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Arthur%20Fonseca&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Arthur%20Fonseca&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
-## 🚀 Sobre mim
-Olá! Eu sou o **Arthur Fonseca**, estudante de **Engenharia de Software** focado em desenvolvimento **Full Stack**. Busco sempre o equilíbrio entre performance técnica e soluções eficientes.
+<div align="center">
+  <img src="https://img.shields.io/badge/-Full%20Stack-blue?style=for-the-badge" /> 
+  <img src="https://img.shields.io/badge/-Software%20Engineering-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Open%20Source-green?style=for-the-badge" />
+</div>
 
-### 🛠️ Minha Stack
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Lua" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img align="center" alt="Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Sqlite" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+<br/>
+
+## 👋 Sobre Mim
+
+Tenho 19 anos, sou **Estudante de Engenharia de Software** e Desenvolvedor Full Stack. Meu foco é construir sistemas de alta performance e código limpo. Acredito que a engenharia é o caminho para resolver problemas complexos com elegância.
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🚀 Linguagens & Frameworks</strong><br />
+      <br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="35" alt="JS" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" alt="Node" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="35" alt="Lua" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>💾 Banco de Dados & Infra</strong><br />
+      <br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" alt="MySQL" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="35" alt="SQLite" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Atividade & Performance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfonseca&layout=compact&theme=react&hide_border=true&langs_count=6" height="150px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamfonseca&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
 
-### 🤝 Vamos nos conectar?
-<p align="left">
+## 📫 Conecte-se Comigo
+
+<div align="left">
   <a href="https://www.youtube.com/channel/UC38zmYWv9GcF5rRqc9Ht4AQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
@@ -27,10 +59,10 @@ Olá! Eu sou o **Arthur Fonseca**, estudante de **Engenharia de Software** focad
   <a href="https://linkedin.com/in/iamfonseca" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</div>
 
----
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamfonseca&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Quote" />
 </div>
