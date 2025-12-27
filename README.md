@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Olá,%20sou%20o%20Fonseca!&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Arthur%20Fonseca&fontSize=70" width="100%" />
 </div>
 
 ## 🚀 Sobre mim
-Sou um **Estudante de Engenharia de Software** focado em desenvolvimento **Full Stack**. Gosto de transformar lógica pura em soluções reais e eficientes através do código.
+Olá! Eu sou o **Arthur Fonseca**, estudante de **Engenharia de Software** focado em desenvolvimento **Full Stack**. Busco sempre o equilíbrio entre performance técnica e soluções eficientes.
 
 ### 🛠️ Minha Stack
 <div style="display: inline_block">
