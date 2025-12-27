@@ -1,11 +1,13 @@
-# Olá, eu sou o Arthur Fonseca! 👋
-
-**Estudante de Engenharia de Software** focado no desenvolvimento Full Stack e em criar soluções eficientes.
+# Olá, eu sou o Arthur Fonseca! 👋, estudante de Engenharia de Software e desenvolvedor Full Stack! 👋
 
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,lua,nodejs,mysql,sqlite,ps,ae,windows" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
 <br>
