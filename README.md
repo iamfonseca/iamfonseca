@@ -5,14 +5,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Full%20Stack-blue?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/-Software%20Engineering-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Open%20Source-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Estudante-green?style=for-the-badge" />
 </div>
 
 <br/>
 
 ## 👋 Sobre Mim
 
-Tenho 19 anos, sou **Estudante de Engenharia de Software** e Desenvolvedor Full Stack. Meu foco é construir sistemas de alta performance e código limpo. Acredito que a engenharia é o caminho para resolver problemas complexos com elegância.
+Sou o **Arthur Fonseca**, estudante de **Engenharia de Software** e Desenvolvedor Full Stack. Meu foco é construir sistemas de alta performance e código limpo, unindo lógica de engenharia com as melhores tecnologias do mercado.
 
 ---
 
@@ -21,29 +21,25 @@ Tenho 19 anos, sou **Estudante de Engenharia de Software** e Desenvolvedor Full 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <strong>🚀 Linguagens & Frameworks</strong><br />
+      <strong>🚀 Frontend & Backend</strong><br />
       <br />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="35" alt="JS" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="35" alt="TS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" alt="React" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" alt="Node" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="35" alt="Lua" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" alt="Python" />
     </td>
     <td width="50%" valign="top">
-      <strong>💾 Banco de Dados & Infra</strong><br />
+      <strong>💾 Web & Banco de Dados</strong><br />
       <br />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" alt="HTML" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" alt="CSS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="35" alt="Lua" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35" alt="MySQL" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="35" alt="SQLite" />
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Atividade & Performance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfonseca&layout=compact&theme=react&hide_border=true&langs_count=6" height="150px" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamfonseca&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
 
 ---
 
@@ -61,8 +57,7 @@ Tenho 19 anos, sou **Estudante de Engenharia de Software** e Desenvolvedor Full 
   </a>
 </div>
 
-<br />
-
+---
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamfonseca&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
