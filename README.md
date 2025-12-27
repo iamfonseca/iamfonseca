@@ -3,7 +3,7 @@
 </div>
 
 ## 🚀 Sobre mim
-Sou um **Estudante de Engenharia de Software** focado em desenvolvimento **Full Stack**. Gosto de transformar lógica pura em soluções reais e eficientes.
+Sou um **Estudante de Engenharia de Software** focado em desenvolvimento **Full Stack**. Gosto de transformar lógica pura em soluções reais e eficientes através do código.
 
 ### 🛠️ Minha Stack
 <div style="display: inline_block">
@@ -18,14 +18,14 @@ Sou um **Estudante de Engenharia de Software** focado em desenvolvimento **Full 
 
 ### 🤝 Vamos nos conectar?
 <p align="left">
-  <a href="https://linkedin.com/in/iamfonseca" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.youtube.com/channel/UC38zmYWv9GcF5rRqc9Ht4AQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://instagram.com/foonseca_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/channel/UC38zmYWv9GcF5rRqc9Ht4AQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://linkedin.com/in/iamfonseca" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
