@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Fonseca&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Arthur%20Fonseca&fontSize=80&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## 👋 Sobre Mim
 
-Sou o **Fonseca**, estudante de **Engenharia de Software** e Desenvolvedor Full Stack. Meu foco é construir sistemas de alta performance e código limpo, unindo lógica de engenharia com as melhores tecnologias do mercado.
+Sou o **Arthur Fonseca**, estudante de **Engenharia de Software** e Desenvolvedor Full Stack. Meu foco é construir sistemas de alta performance e código limpo, unindo lógica de engenharia com as melhores tecnologias do mercado.
 
 ---
 
