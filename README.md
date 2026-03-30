@@ -17,7 +17,7 @@ Currently studying **Software Engineering** and working with modern web technolo
 
 **Languages**
 
-JavaScript • TypeScript • Python • Lua
+JavaScript • TypeScript • Lua
 
 **Frontend**
 
