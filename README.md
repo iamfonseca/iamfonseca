@@ -25,7 +25,7 @@ React • Next.js • HTML • CSS • Tailwind
 
 **Backend**
 
-Node.js • Express
+Node.js • Express • Fastify
 
 **Databases**
 
