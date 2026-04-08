@@ -21,7 +21,7 @@ JavaScript • TypeScript • Lua
 
 **Frontend**
 
-React • Next.js • HTML • CSS • Tailwind
+React • Next.js • HTML • CSS • Tailwind • GSAP • Figma • Framer Motion
 
 **Backend**
 
@@ -33,7 +33,7 @@ PostgreSQL • MySQL • SQLite • Redis
 
 **Cloud & Tools**
 
-AWS • Cloudflare • Vercel • Docker • Git
+AWS • Cloudflare • Vercel • Docker • Git • CI/CD • Docker • Kubernetes • Vite
 
 ---
 
