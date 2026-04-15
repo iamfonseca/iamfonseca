@@ -13,32 +13,9 @@ Currently studying **Software Engineering** and working with modern web technolo
 
 ---
 
-## 🚀 Tech Stack
-
-**Languages**
-
-JavaScript • TypeScript • Lua • Python
-
-**Frontend**
-
-React • Next.js • HTML • CSS • Tailwind • GSAP • Figma • Framer Motion
-
-**Backend**
-
-Node.js • Express • Fastify
-
-**Databases**
-
-PostgreSQL • MySQL • SQLite • Redis
-
-**Cloud & Tools**
-
-AWS • Cloudflare • Vercel • Docker • Git • CI/CD • Docker • Kubernetes • Vite
-
----
-
 ## 📫 Contact
 
 - LinkedIn → https://linkedin.com/in/iamfonseca  
 - Instagram → https://instagram.com/foonseca_  
 - YouTube → https://www.youtube.com/channel/UC38zmYWv9GcF5rRqc9Ht4AQ
+- My Website → https://www.arthurfonseca.com.br
