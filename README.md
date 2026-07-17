@@ -16,6 +16,6 @@ Currently studying **Software Engineering** and working with modern web technolo
 ## 📫 Contact
 
 - LinkedIn → https://linkedin.com/in/iamfonseca  
-- Instagram → https://instagram.com/foonseca_  
+- Instagram → [@foonseca_](https://instagram.com/foonseca_)
 - YouTube → https://youtube.com/channel/UC38zmYWv9GcF5rRqc9Ht4AQ
 - My Website → [https://arthurfonseca.com.br](https://iamfonseca.github.io/iamfonseca-devfolio/)
