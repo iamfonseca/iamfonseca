@@ -6,7 +6,7 @@ I build scalable digital products, SaaS platforms, automation systems,
 cloud infrastructure and AI-powered solutions.
 
 Currently working as **Founder & Software Engineer at Oxisius**, where I
-design and develop complete software products — from architecture and
+design and develop complete software products from architecture and
 back-end services to user interfaces, deployment and infrastructure.
 
 ---
@@ -73,22 +73,6 @@ back-end services to user interfaces, deployment and infrastructure.
 - Distributed systems
 - Scalable SaaS architectures
 - Cloud infrastructure and observability
-
----
-
-## GitHub Statistics
-
-<div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=iamfonseca&show_icons=true&hide_border=true"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfonseca&layout=compact&hide_border=true"
-  />
-</div>
 
 ---
 
