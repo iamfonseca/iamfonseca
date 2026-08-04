@@ -19,9 +19,3 @@ I have delivered more than 20 software applications for national and internation
 ## Interests
 
 System architecture, artificial intelligence, automation, distributed systems and cloud infrastructure.
-
-## Links
-
-[Portfolio](https://arthurfonseca.com.br) ·
-[LinkedIn](https://linkedin.com/in/iamfonseca) ·
-[Email](mailto:arthyfps@gmail.com)
