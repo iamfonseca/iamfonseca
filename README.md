@@ -2,7 +2,7 @@
 
 Software Engineer focused on building scalable digital products, SaaS platforms, automation systems and cloud infrastructure.
 
-Founder and Software Engineer at [Oxisius](https://oxisius.com), working across the entire product lifecycle — from system architecture and development to deployment and infrastructure.
+Founder and Software Engineer at [Oxisius](https://oxisius.com), working across the entire product lifecycle from system architecture and development to deployment and infrastructure.
 
 Based in São Paulo, Brazil.
 
