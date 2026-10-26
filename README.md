@@ -1,21 +1,22 @@
 # Arthur Fonseca
 
-Software Engineer focused on building scalable digital products, SaaS platforms, automation systems and cloud infrastructure.
+Founder & Software Engineer at [Oxisius](https://oxisius.com) · São Paulo, Brazil
 
-Founder and Software Engineer at [Oxisius](https://oxisius.com), working across the entire product lifecycle from system architecture and development to deployment and infrastructure.
+I build full-stack digital products: SaaS platforms, APIs, integrations, and automation (including AI-assisted workflows). Day to day I work across architecture, implementation, deploy, and production ops.
 
-Based in São Paulo, Brazil.
+## Focus
 
-## Experience
+- Full-stack web: TypeScript, Node.js, React, Next.js, PostgreSQL
+- Production: Redis, Docker, Linux, AWS, Cloudflare
+- Also: Lua / NUI tooling for FiveM (see [Oxisius](https://github.com/Oxisius) org)
 
-I have delivered more than 20 software applications for national and international clients, including SaaS platforms, CRMs, internal systems, dashboards, APIs and AI-powered automations.
+## Selected public work
 
-## Technologies
+- [calculadora-rust](https://github.com/iamfonseca/calculadora-rust) — expression interpreter in Rust (tokenizer → AST → evaluator) with unit + integration tests
+- [oxisius_devmarker](https://github.com/Oxisius/oxisius_devmarker) — FiveM DevMarker editor (Lua + NUI)
+- [Zingen](https://github.com/iamfonseca/Zingen) — static marketing landing (HTML/CSS)
 
-**Main stack:** TypeScript, Node.js, React, Next.js and PostgreSQL.
+## Links
 
-**Also working with:** Redis, Docker, AWS, Linux, Cloudflare, WebSockets, Three.js and WebGL.
-
-## Interests
-
-System architecture, artificial intelligence, automation, distributed systems and cloud infrastructure.
+- Studio: [oxisius.com](https://oxisius.com)
+- LinkedIn: [linkedin.com/in/iamfonseca](https://linkedin.com/in/iamfonseca)
